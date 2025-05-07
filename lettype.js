@@ -33,7 +33,7 @@ console.log(d);
 // output off the following code 
 let x = 9;
 const y = 10;
- // x = y;
+ //  x = y;
 // console.log(x);
 
   y = x;
