@@ -22,4 +22,5 @@ function div( a , b){
 }
 
 console.log(add(a , b));
-console.log(multi(a , b))
+console.log(multi(a , b));
+console.log(div(a , b));
