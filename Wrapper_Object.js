@@ -9,4 +9,4 @@ console.log(bigNum.__proto__);
 console.log(bool.__proto__);
 
 console.log(str.length);
-console.log(str.indexOf("i"))
+console.log(str.indexOf("i"));
