@@ -5,7 +5,7 @@ function calculateAverage(student1Score ,student2Score ,student3Score) {
     let averageScore = (score1 + score2 + score3) /3
 //Write your code here
 
-    return averageScore;
+    return averageScore;po[]
 }
 
 let student1Score = "90"
