@@ -4,6 +4,8 @@ if(temperature >= 30){
 }else if(temperature <= 30 && temperature >= 20){
  console.log("the weather is pleasant");
 
-}else{
+} else{
+
     console.log("its a cold day ");
+
 }
