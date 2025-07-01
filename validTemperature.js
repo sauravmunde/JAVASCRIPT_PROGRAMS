@@ -23,10 +23,9 @@ console.log("Discounted Price =", discountedPrice);
 
 
 
-
 <!--Problem statement
 Create a function named temperatureInCelcius to analyze temperature data. The function should:
-
+ 
 Take a temperature in Celsius as input.
 Convert the temperature to Fahrenheit using the formula:
 Fahrenheit = (Celsius×9/5)+32
