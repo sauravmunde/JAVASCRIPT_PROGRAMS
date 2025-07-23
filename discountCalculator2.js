@@ -19,4 +19,5 @@ function discountCalculator(totalAmount) {
     return totalAmount - discount;
 
 }
-console.log(discountCalculator(80))
+console.log(discountCalculator(80));
+
