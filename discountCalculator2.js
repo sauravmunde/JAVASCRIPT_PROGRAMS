@@ -21,3 +21,5 @@ function discountCalculator(totalAmount) {
 }
 console.log(discountCalculator(80));
 
+console.log("dhfuhhh ufhvjfvhfbfj")
+

@@ -5,7 +5,7 @@ let year = 2020;
 let Year = 2021;
 
 // 2. Contains Alphabets(aA-zZ), numbers(0-9), underScore(_), Dollar($)
-let name = "Falak";
+let name = "Falak"; 
 let first_name = "Falak";
 let amt$ = 29.5;
 let num1 = 10;

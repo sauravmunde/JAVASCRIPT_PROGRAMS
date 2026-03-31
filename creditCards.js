@@ -5,7 +5,8 @@ let isEligible = true;
 
 
 isEligible = ( firstMonthBuy > 999 && secondMonthBuy > 999 ) ||
-    (firstMonthBuy > 999 && thirdMonthBuy > 999) ||
+   
+(firstMonthBuy > 999 && thirdMonthBuy > 999) ||
 
     (secondMonthBuy > 999 && thirdMonthBuy > 999)||
 

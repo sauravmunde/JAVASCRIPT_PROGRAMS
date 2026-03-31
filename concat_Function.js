@@ -22,6 +22,9 @@ let i = 2;
 //i++;
 
 // console.log(++i);
+ 
+ a = 44;
+
 //console.log(i ** 3);
 
 // 4. Augmented Assignment Opeartor

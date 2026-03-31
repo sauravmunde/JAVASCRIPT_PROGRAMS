@@ -1,20 +1,33 @@
+
+
 /*
+
 Problem statement
+
 You have already completed the email validation program using "||" operator. Now modify the code and rewrite the conditions to validate the email using the "&&" operator.
 
-
-
 Additionally, include one more condition that:
+
 a- Email should have at least 3 characters before “@.”
+
 b- If the email is valid, store the value of the email in the result variable with a welcome message. If the email is invalid, store the string "invalid email" in the result variable.
+
 Expected Input
- xyz@gmail.com
+
+xyz@gmail.com
+
 Expected Output
- Welcome xyz@gmail.com to our site
+
+Welcome xyz@gmail.com to our site
+
 Expected Input
- xz@gmail.com
+
+xz@gmail.com
+
 Expected Output
- invalid email
+
+invalid email
+
  */
 
 function main(email){
@@ -31,7 +44,7 @@ function main(email){
 
         result = "Welcome " + email + " to our site";
 
-    } else {
+    } else { 
 
         result = "invalid email";
     }
@@ -39,10 +52,25 @@ function main(email){
 }
 
 // asc@gmail.com
+
+
 console.log("\n");
-let email = "sauravMunde@gmail.com";
+
+let email = "sauravMunde@gmail.com "
+
 console.log("email_1 = " + main(email));
+
 console.log("\n");
 
 email = "saurav";
+
 console.log("email_2 = "+main(email));
+
+
+console.log("hello ninjas");
+
+console.log("hey my name is saurav");
+
+console.log("hey are you serious about yourself");
+
+console.log("hey you are the my own buddy");

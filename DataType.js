@@ -1,4 +1,6 @@
 /* Data Types
+
+
     1. Object
     2. Primitive Datatypes
 */
@@ -40,3 +42,10 @@ console.log(typeof b);
 // BigInt(ES2020)
 let num1 = 10n;
 console.log(typeof num1);
+lorem ;
+loremone;
+loremtwo;
+loremthree;
+let sss = 40;
+let bbb = 60;
+let ccc =100;
